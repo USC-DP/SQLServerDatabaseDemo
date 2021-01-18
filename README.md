@@ -1,7 +1,7 @@
 # SQL Webserver Database (Allows for SQL Injections):
 
 This is PHP code designed on a LAMP stack that implements an interactive SQL database on a webserver.
-The PHP code allows for the demostration of an SQL Injection.
+The PHP code sanitizes inputs to prevent SQL injections.
 
 ![Web Application](database.PNG)
 
